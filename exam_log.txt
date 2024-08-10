@@ -1,0 +1,151 @@
+    1  pkg install
+    2  pkg install python3 
+    3  pkg install jdk 
+    4  pkg install javac 
+    5  who am i
+    6  clear
+    7  who am i
+    8  clear
+    9  whoami
+   10  pkg upgrade
+   11  y
+   12  pkg list-installed
+   13  pkg install apache
+   14  pkg install apache2
+   15  Y
+   16  pkg installed
+   17  pkg install jdk
+   18  pkg install javac
+   19  pkg install jdk
+   20  pkg list-installed
+   21  pkg install ssh
+   22  pkg open ssh
+   23  pkg openssh
+   24  pkg install ssh
+   25  pkg install openjdk-17
+   26  pkg search java
+   27  pkg install openjdk
+   28  Y
+   29  pkg list-installed
+   30  pkg install openjdk
+   31  pkg list-installed
+   32  pkg install openjdk
+   33  pkg install opensah
+   34  pkg install openssh
+   35  pkg list-installed
+   36  pkg install sql
+   37  pkg install opensql
+   38  pkg search sql
+   39  pkg install git && gh
+   40  apk install git
+   41  pkg install git
+   42  apt-get upgrade
+   43  pkg install gh
+   44  exit
+   45  pkg pkg installed sl
+   46  exit
+   47  mkdir
+   48  mkdir linux_practice
+   49  cd linux_practice
+   50  touch[file name].txt
+   51  touch [filename].txt
+   52  ls ~/docs > filenames.txt
+   53  touch notes.txt
+   54  ls >> notes.txt
+   55  cat notes.txt
+   56  echo "Hello, Linux" > notes.txt
+   57  head -n 1 notes.txt
+   58  tail -n 1 notes.txt
+   59  mkdir subdir
+   60  mv notes.txt subdir/
+   61  mv subdir practice_subdir
+   62  cd practice_subdir/notes.txt .
+   63  cd practice_subdir/notes.txt 
+   64  cp practice_subdir/notes.txt .
+   65  dste
+   66  date
+   67  uptime
+   68  df -h ~
+   69  ssh -V
+   70  php -V
+   71  msql --version
+   72  apache2 -V
+   73  apache2 -v
+   74  python3 --version
+   75  java -version
+   76  httpd -v
+   77  python --version
+   78  java -version
+   79  cd
+   80  cd 220950835_Autor
+   81  cd linux_practice
+   82  cd
+   83  ls
+   84  mv linux_practice -t 220950835_Autor
+   85  ls
+   86  cd Pliks06
+   87  ls
+   88  cd
+   89  cd 220950835_Autor
+   90  cd linux_practice
+   91  git checkout -b finalexam
+   92  history>exam_log.txt
+   93  cat exam_log.txt
+   94  git add . exam_log.txt
+   95  git commit -m "Added exam_log.txt with command history"
+   96  git config --global use.email flixautor2004@gmail.com
+   97  git config --global user.name Pliks06
+   98  git push
+   99  git push origin finalexam
+  100  git pusb
+  101  git push
+  102  git push origin finalexam
+  103  exit
+  104  ls
+  105  cd 220950835_Autor
+  106  ls
+  107  cd linux_practice
+  108  ls
+  109  git push origin finalexam
+  110  pkg install gh
+  111  pkg openshh
+  112  pkg install open ssh
+  113  pkt install openssh
+  114  pkg install openssh
+  115  pkg install git
+  116  git push 
+  117  git push --set-upstream origin finalexam
+  118  history
+  119  git branch
+  120  branch 
+  121  git checkout -b finalexam
+  122  git checkout finalexam
+  123  git log
+  124  git
+  125  git status
+  126  history > exam_lab.txt
+  127  cat exam_lab.txt
+  128  git checkout -b finalexam
+  129  cd 220950835_Autor
+  130  git status
+  131  ls
+  132  history > exam_lab.txt
+  133  git add . exam_lab.txt
+  134  git commit -m "Added exam_log.txt with command history"
+  135  git config --global user.email flixautor110619@gmail.com
+  136  git config --global user.name Pliks06
+  137  git push origin finalexam
+  138  git status
+  139  git push
+  140  gh auth login
+  141  git push
+  142  git push origin finalexam
+  143  git add exam_log.txt
+  144  ls
+  145* 
+  146  history > exam_lab.txt
+  147  ls
+  148  git add exam_lab.txt
+  149  history > exam_lab.txt
+  150  git add . exam_lab
+  151  history > exam_log.txt

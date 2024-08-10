@@ -1,0 +1,46 @@
+    1  mkdir
+    2  mkdir linux_practice
+    3  cd linux_practice
+    4  touch[file name].txt
+    5  touch [filename].txt
+    6  ls ~/docs > filenames.txt
+    7  touch notes.txt
+    8  ls >> notes.txt
+    9  cat notes.txt
+   10  echo "Hello, Linux" > notes.txt
+   11  head -n 1 notes.txt
+   12  tail -n 1 notes.txt
+   13  mkdir subdir
+   14  mv notes.txt subdir/
+   15  mv subdir practice_subdir
+   16  cd practice_subdir/notes.txt .
+   17  cd practice_subdir/notes.txt 
+   18  cp practice_subdir/notes.txt .
+   19  dste
+   20  date
+   21  uptime
+   22  df -h ~
+   23  ssh -V
+   24  php -V
+   25  msql --version
+   26  apache2 -V
+   27  apache2 -v
+   28  python3 --version
+   29  java -version
+   30  httpd -v
+   31  python --version
+   32  java -version
+   33  cd
+   34  cd 220950835_Autor
+   35  cd linux_practice
+   36  cd
+   37  ls
+   38  mv linux_practice -t 220950835_Autor
+   39  ls
+   40  cd Pliks06
+   41  ls
+   42  cd
+   43  cd 220950835_Autor
+   44  cd linux_practice
+   45  git checkout -b finalexam
+   46  history>exam_log.txt
